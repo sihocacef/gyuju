@@ -1,0 +1,25 @@
+{
+    "name": "call-of-duty-mobile-hack/get-unlimited-points-and-credits",
+    "description": " Call Of Duty Mobile Hack ((INFINITE)) Credits And Points Here we will provide Direct download link of Call of Duty Mobile Mod Apk ... Download Call of Duty Mobile Hack Apk + Obb Data + Hack Game. Are there any Cheats for Call of Duty Legends of War? ",
+    "homepage": "https://github.com/fcjc",
+	"keywords": ["Call Of Duty Mobile Hack","Call Of Duty Mobile Hack Free Points And Credits","Call Of Duty Mobile Hack IOS","Call Of Duty Mobile Hack 2019"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Get Call Of Duty Mobile Free Points And Credits Now",
+            "homepage": "http://mobapps.bid/cod-mobile-hack",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
